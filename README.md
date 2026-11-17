@@ -268,4 +268,4 @@ If LoopForge is useful to you, a star helps others find it.
 ## License
 
 [MIT](LICENSE). Third-party components keep their own licenses and notices; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
-</p> frosty
+</p> LoopForge is licensed Third-party software, please not downland other webs and repos
